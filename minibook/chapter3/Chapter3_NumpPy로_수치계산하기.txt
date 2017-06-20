@@ -1,0 +1,9 @@
+다차원배열 ndarray 
+
+정의요소
+dimensions 수
+shape
+stride
+dtype(데이터 타입)
+실제데이터
+
